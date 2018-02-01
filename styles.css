@@ -1,0 +1,31 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#Pokedex{
+	border: 5px solid red;
+	width: 200px;
+	height: 500px;
+	text-align: center;
+	padding-top: 30px;
+	font-family: "calibri";
+	display: inline-block;
+}
+#info{
+	text-align: left;
+	padding: 5px;
+	vertical-align: top;
+}
+#imgs{
+	width: 700px;
+	display: inline-block;
+	background-color: grey;
+	vertical-align: top;
+}
+
+li{
+	margin:10px 0px 5px 0px;
+}
+p{
+	margin:10px 0px;
+}
